@@ -26,8 +26,8 @@ Partiu levar o gameplay para outro nível? 🎮
 <h2>📸 Captura de Tela</h2><br>
 
 <p align="center">
-  <img src="./assets/Captura de ecr\303\243_30-7-2025_135759_127.0.0.1.jpeg" alt="screenshot do projeto personalizado">
-  <img src="./assets/Captura de ecr\303\243_30-7-2025_135822_127.0.0.1.jpeg" alt="screenshot do projeto personalizado">
+  <img src="./assets/Captura de ecrã_30-7-2025_135759_127.0.0.1.jpeg" alt="screenshot do projeto personalizado">
+  <img src="./assets/" alt="screenshot do projeto personalizado">
 </p>
 
 
